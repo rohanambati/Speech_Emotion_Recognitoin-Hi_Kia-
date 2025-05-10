@@ -43,7 +43,7 @@ pip install -r requirements.txt
 1. **Run the Notebook**
 
    ~~~bash
-   jupyter notebook nlpprojectfinal_cleaned_f.ipynb
+   jupyter notebook SER_Hi_Kia_RohanAmbati.ipynb
    ~~~
 
 2. **(Optional) Launch the Web Demo**
